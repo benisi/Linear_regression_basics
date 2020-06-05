@@ -1,5 +1,5 @@
 # Linear regression basics
-This is a repo that contain some basic linear regression
+This is a repo that contain the code i wrote while learning linear regression, it can be a good resource for learning because i will add a link to all the materials i used at the reference section. Contributions are welcome
 
 ## Formular
 
