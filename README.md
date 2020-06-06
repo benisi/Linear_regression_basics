@@ -8,5 +8,5 @@ Remember the equation of a straight line? y = mx + c where y is the dependent va
 
 # References
 
-[Code Basic](https://github.com/codebasics/py/blob/master/ML/1_linear_reg/1_linear_regression.ipynb)
-[Oreily, machine learning with python](https://learning.oreilly.com/videos/machine-learning-using/9781634622318/9781634622318-9781634622318_5)
+- [Code Basic](https://github.com/codebasics/py/blob/master/ML/1_linear_reg/1_linear_regression.ipynb)
+- [Oreily, machine learning with python](https://learning.oreilly.com/videos/machine-learning-using/9781634622318/9781634622318-9781634622318_5)
